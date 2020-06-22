@@ -1,0 +1,7 @@
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe.config
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\bin\Debug\Wielowatkowosc.pdb
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\obj\Debug\Wielowatkowosc.csprojAssemblyReference.cache
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CoreCompileInputs.cache
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\obj\Debug\Wielowatkowosc.exe
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Wielowatkowosc\obj\Debug\Wielowatkowosc.pdb
